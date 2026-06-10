@@ -16,7 +16,7 @@ import io
 # 1. CẤU HÌNH TRANG WEB APP
 # ----------------------------------------
 st.set_page_config(
-    page_title="Hệ thống",
+    page_title="Hệ thống phát hiện bất thường trong giao dịch kiểm toán nội bộ",
     layout="wide",
     page_icon="🏦",
     initial_sidebar_state="expanded"
